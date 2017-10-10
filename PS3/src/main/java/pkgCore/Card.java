@@ -1,5 +1,5 @@
 package pkgCore;
-
+/*oh wow*/
 import pkgEnum.*;
 
 public class Card implements Comparable {
